@@ -50,7 +50,7 @@ export default function App() {
           onChange={capturandoSegundoValor}
           value={segundoValor}
         />
-        <S.P>Escolhar qual operaçaõ quer realizar:</S.P>
+        <S.P>Escolha qual operação quer realizar:</S.P>
         <S.Section>
           <S.Button onClick={soma}>+</S.Button>
           <S.Button onClick={subtracao}>-</S.Button>
